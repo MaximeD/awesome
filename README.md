@@ -1,5 +1,7 @@
 # Awesome wm configuration file
 
+![screenshot](screenshot.png)
+
 ## Dependencies
 
 You need to have `mocp` running as a server.
