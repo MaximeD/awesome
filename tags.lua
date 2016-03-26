@@ -145,6 +145,13 @@ shifty.config.apps = {
   },
   {
     match = {
+      "Steam",
+    },
+    tag = "steam",
+    float = true
+  },
+  {
+    match = {
       "MPlayer",
     	"Xine",
     	"Vlc",
@@ -201,4 +208,3 @@ shifty.config.defaults = {
   guess_name     = true,
   guess_position = true,
 }
-
