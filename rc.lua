@@ -2,8 +2,6 @@ require("awful")
 require("awful.autofocus")
 -- Theme handling library
 require("beautiful")
--- Notification library
-require("naughty")
 -- shifty - dynamic tagging library
 require("shifty")
 -- User libraries
