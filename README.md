@@ -1,5 +1,9 @@
 # Awesome wm configuration file
 
+**⚠ This is not compatible with awesome >= 3.5 ⚠**.
+
+Take a look at [this file](https://github.com/MaximeD/dot-files/blob/master/rc.lua.max) to use with [awesome-copycats](https://github.com/copycat-killer/awesome-copycats) instead.
+
 ![screenshot](screenshot.png)
 
 ## Dependencies
